@@ -11,6 +11,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git! master tese
-hello git!
-
+hello git! master test
+hello git! hot-fix test
